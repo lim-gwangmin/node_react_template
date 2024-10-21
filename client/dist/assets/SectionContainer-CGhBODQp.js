@@ -1,1 +1,0 @@
-import{j as t,b3 as a,b4 as c}from"./index-BBXadzZ0.js";function j({bg:n="inherit",paddingTop:e=20,paddingBt:i=20,maxWidth:r=1024,children:o,...s}){return t.jsx(a,{bg:n,paddingTop:e,paddingBt:i,...s,children:t.jsx(c,{maxWidth:r,children:o})})}export{j as S};
