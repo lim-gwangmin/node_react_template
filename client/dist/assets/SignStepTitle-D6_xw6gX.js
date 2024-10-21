@@ -1,0 +1,1 @@
+import{j as t,c as s,T as n}from"./index-BBXadzZ0.js";import{S,a as l}from"./Title.styled-d_6YcK5y.js";function a({step:e=1,children:i}){return t.jsxs("div",{children:[t.jsxs(s,{style:S,children:["STEP.",e]}),t.jsx(n,{style:l,children:i})]})}export{a as S};

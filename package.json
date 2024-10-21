@@ -1,0 +1,23 @@
+{
+  "name": "react_node_template",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "NODE_ENV=production node -r dotenv/config server.js dotenv_config_path=.env.production",
+    "client": "npm run dev --prefix client",
+    "dev": "concurrently \"nodemon -r dotenv/config server.js dotenv_config_path=.env.local\""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "concurrently": "^9.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
+  }
+}

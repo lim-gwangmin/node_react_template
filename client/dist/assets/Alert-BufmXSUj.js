@@ -1,0 +1,1 @@
+import{j as e,al as n,am as o,an as d}from"./index-BBXadzZ0.js";function j({isOpen:t=!1,title:i="",mode:a="center",max:l=400,children:r,...s}){return e.jsx(n,{isOpen:t,children:e.jsx(o,{max:l,mode:a,...s,children:e.jsx(d,{children:r})})})}export{j as A};

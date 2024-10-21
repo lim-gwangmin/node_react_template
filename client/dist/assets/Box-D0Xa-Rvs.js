@@ -1,0 +1,1 @@
+import{j as i}from"./index-BBXadzZ0.js";import{S as n}from"./Box.styled-DN2A2xhE.js";function u({bgColor:o="#fff",paddingTop:r=15,paddingRt:t=20,paddingBt:f=15,paddingLf:s=20,radius:x=10,shadow:e=!1,children:m,...a}){return i.jsx(n,{bgColor:o,paddingTop:r,paddingRt:t,paddingBt:f,paddingLf:s,radius:x,shadow:e,...a,children:m})}export{u as B};
