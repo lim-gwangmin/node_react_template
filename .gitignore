@@ -1,12 +1,12 @@
 # Node.js 관련
-node_modules             # Node.js 종속성 모듈
+node_modules/             # Node.js 종속성 모듈
 .env                     # 환경 변수 파일
 .env.local               # 로컬 환경 변수 파일
 .env.production          # 프로덕션 환경 변수 파일
 .env.*.local             # 기타 로컬 환경 변수 파일들
 
 # Vite (React) 관련
-client/node_modules      # Vite React 종속성 모듈
+client/node_modules/      # Vite React 종속성 모듈
 client/dist              # Vite 빌드 출력 폴더
 client/dist-ssr          # Vite 서버 측 빌드 폴더
 client/.env              # React 환경 변수 파일
