@@ -22,7 +22,7 @@ CLIENT_PORT       : React와 통합환경으로 개발 시, React 로컬 서버 
 DB_HOST           : DB host
 DB_USER           : DB user
 DB_PASSWORD       : DB password
-DB_NAME           : DB name
+DB_NAME           : DB table name
 JWT_SECRET        : JWT 비밀 키
 ```
 
